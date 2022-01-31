@@ -21,9 +21,20 @@
 
 .inner-float{
     float: left;
-    width: 33%;
-    padding: 2px;
+    width: 32%;
+    padding: 5px;
+    margin: 5px;
+}
 
+.img1,
+.img2,
+.img3,
+.img4,
+.img5,
+.img6{
+    width: 100%;
+    height: 95%;
+    object-fit: contain;
 }
 
 .debug .container {
@@ -33,7 +44,7 @@
 
 .debug .maxi-box{
     background-color: coral;
-    height: 48%;
+    height: 49%;
     margin: 2px;
 }
 
